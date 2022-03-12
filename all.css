@@ -1,0 +1,11 @@
+.form-area{
+  padding: 24px 17px 0 17px;
+}
+
+.btn-submit{
+  background-color: #212529;
+}
+
+.btn-submit:hover{
+  background-color: #42464b;
+}
